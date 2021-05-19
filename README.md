@@ -14,7 +14,7 @@ Espero seu contato!
 LinkedIn: https://www.linkedin.com/in/sabrinaamorimdecastro/
 
 Portifolio: https://sabrinaacastro.wixsite.com/website
-/p> 
+</p> 
 
 
 <!--
