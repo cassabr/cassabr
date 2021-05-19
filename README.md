@@ -8,7 +8,7 @@ Navege pelo meu portifólio e visite também minhas páginas para me conhecer me
 
 Espero seu contato!
 
-<img src="https://user-images.githubusercontent.com/81202040/118897419-9a8c4080-b8e0-11eb-8232-b16bacb4abef.png" width="300" height="200">  
+<img src="https://user-images.githubusercontent.com/81202040/118897419-9a8c4080-b8e0-11eb-8232-b16bacb4abef.png" width="500" height="300">  
 
 
 LinkedIn:
