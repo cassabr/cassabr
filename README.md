@@ -12,7 +12,7 @@ Espero seu contato!
 
 
 
-![image](https://user-images.githubusercontent.com/81202040/118897841-809f2d80-b8e1-11eb-9929-f9200153a820.png)
+![png](https://user-images.githubusercontent.com/81202040/118897841-809f2d80-b8e1-11eb-9929-f9200153a820.png)
 
 
 LinkedIn:
