@@ -11,11 +11,9 @@ Navege pelo meu portifólio e visite também minhas páginas para me conhecer me
 Espero seu contato!
 
 
-LinkedIn:
-https://www.linkedin.com/in/sabrinaamorimdecastro/
+LinkedIn: https://www.linkedin.com/in/sabrinaamorimdecastro/
 
-Portifolio:
-https://sabrinaacastro.wixsite.com/website
+Portifolio: https://sabrinaacastro.wixsite.com/website
 
 
 
