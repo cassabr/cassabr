@@ -10,6 +10,10 @@ Espero seu contato!
 
 <img src="https://user-images.githubusercontent.com/81202040/118897419-9a8c4080-b8e0-11eb-8232-b16bacb4abef.png" width="500" height="350">  
 
+https://agilethink.com.br/wp-content/uploads/2020/07/girl_3.gif
+
+| width=100
+
 
 LinkedIn:
 https://www.linkedin.com/in/sabrinaamorimdecastro/
