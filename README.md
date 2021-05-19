@@ -8,7 +8,7 @@ Navege pelo meu portifólio e visite também minhas páginas para me conhecer me
 
 Espero seu contato!
 
-![image](https://user-images.githubusercontent.com/81202040/118897285-513bf100-b8e0-11eb-9790-df346044c8f5.png)
+![image](https://user-images.githubusercontent.com/81202040/118897419-9a8c4080-b8e0-11eb-8232-b16bacb4abef.png)
 
 LinkedIn:
 https://www.linkedin.com/in/sabrinaamorimdecastro/
