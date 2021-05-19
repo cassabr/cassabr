@@ -1,6 +1,6 @@
 ### Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://agilethink.com.br/wp-content/uploads/2020/07/girl_3.gif" width="450" height="320" />  
+<img align="right" alt="GIF" src="https://agilethink.com.br/wp-content/uploads/2020/07/girl_3.gif" width="400" height="320" />  
 
 <p align="justify">Prazer. Eu me chamo Sabrina Castro e sou uma aspirante a Analista de Dados | Cientista de dados.
 Sou iniciante nesse ramo. Estou estudando (muito) para realizar meu sonho: trabalhar com dados! Essa é minha paixão e vou continuar a aprender e crescer nesse novo caminho.
