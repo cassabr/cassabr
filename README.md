@@ -1,4 +1,4 @@
-### Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Olá! <img src="https://user-images.githubusercontent.com/81202040/122641897-6e7dfe00-d0de-11eb-84c4-b2b3cf19ec9d.png" width="50px">
 
 <img align="right" alt="GIF" src="https://agilethink.com.br/wp-content/uploads/2020/07/girl_3.gif" width="400" height="320" />  
 
